@@ -1,1 +1,3 @@
-# task-timer
+# Task Timer
+## Description
+## Usage
