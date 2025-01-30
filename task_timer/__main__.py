@@ -1,5 +1,7 @@
-def main():
-    print("Hello from task-timer!")
+import click
  
-if __name__ == '__main__':
-    main()
+@click.command()
+def main():
+    """This is my main cli."""
+ 
+    click.echo("Hello World")
