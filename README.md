@@ -48,16 +48,28 @@ dependencies = [
 
 ## File Structure
 task-timer/
+
 │── task_timer
+
 │   │── __pycache__
+
 │   ├── __main__.py       # Main entry point
+
 │   ├── __init__.py       # Initializes an instance of a class
+
 │   ├── timesheet.csv     # CSV exported file
+
 │   ├── timesheet.json    # Houses task data
+
 │── .gitignore
+
 │── .python-version
+
 │── pyproject.toml        # Dependencies
+
 │── README.md             # Project documentation
+
 │── uv.lock
+
 
 
