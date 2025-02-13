@@ -10,7 +10,7 @@ Features
 3) Export recorded task times to a CSV file.
 4) Uses JSON to store task data.
 
-## Commands
+#### Commands
 
 Starts one or more tasks and tracks their duration using the datetime module.
 ```
